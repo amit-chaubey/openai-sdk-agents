@@ -1,0 +1,2 @@
+openai-agents # or `uv add openai-agents`, etc
+python-dotenv
