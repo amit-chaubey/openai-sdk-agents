@@ -7,7 +7,7 @@
 A intelligent AI assistant system built with OpenAI Agents SDK, featuring a bookstore inventory management system and an educational tutoring platform.
 
 <div align="center">
-  <img src="image/agent-logo.png" width="60%" alt="Project Logo">
+  <img src="image/agent-logo.jpg" width="60%" alt="Project Logo">
 </div>
 
 ## ✨ Features
